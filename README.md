@@ -51,7 +51,7 @@
 
     Also, in a very rare occasion in the random mouse solver with multithreading, after the generator
     and solver has been implemented successfully, it shows java.util.concurrent.RejectedExecutionException
-    which needs to be handled. We were not quite sure what the exception was.
+    which needs to be handled. I was not quite sure what the exception was.
 
 
 
